@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CermatiTest</string>
+    <string name="inet_disc">No Internet Connection</string>
+</resources>
